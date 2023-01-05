@@ -38,7 +38,14 @@
                 "prefLabel": {
                     "en": "Questions"
                 }
-            }
+            },
+            {
+                "isAbout": "../activity/environmentCheck/environmentCheck_schema",
+                "variableName": "environmentCheck_schema",
+                "prefLabel": {
+                    "en": "Environment/Device Check"
+                }
+            },
         ],
         "allow": [
             "reproschema:AutoAdvance",
