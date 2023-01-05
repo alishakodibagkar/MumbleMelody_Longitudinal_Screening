@@ -23,7 +23,9 @@
             "../activity/introduction/introduction_schema",
 	    "../activity/questions/questions_schema",
 	    "../activity/environmentCheck/environmentCheck_schema",
-            "../activity/voiceCheck/voiceCheck_schema"
+            "../activity/voiceCheck/voiceCheck_schema",
+            "../activity/voiceQuestions/voiceQuestions_schema"
+
         ],
         "shuffle": false,
         "addProperties": [
