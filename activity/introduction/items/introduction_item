@@ -18,7 +18,7 @@
         "multipleChoice": true,
         "choices": [
             {
-                "name": "Continue",
+                "name": "I have read this introduction",
                 "value": 0
             }
         ]
