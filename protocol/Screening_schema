@@ -21,7 +21,9 @@
     "ui": {
         "order": [
             "../activity/introduction/introduction_schema",
-	    "../activity/questions/questions_schema"
+	    "../activity/questions/questions_schema",
+	    "../activity/environmentCheck/environmentCheck_schema",
+            "../activity/voiceCheck/voiceCheck_schema",
         ],
         "shuffle": false,
         "addProperties": [
@@ -44,6 +46,13 @@
                 "variableName": "environmentCheck_schema",
                 "prefLabel": {
                     "en": "Environment/Device Check"
+                }
+            },
+            {
+                "isAbout": "../activity/voiceCheck/voiceCheck_schema",
+                "variableName": "voiceCheck_schema",
+                "prefLabel": {
+                    "en": "Voice Check"
                 }
             }
         ],
