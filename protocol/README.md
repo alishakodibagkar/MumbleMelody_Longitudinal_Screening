@@ -3,7 +3,7 @@
         <div style="
           height: 30vw;
           min-height: 15rem;
-          background-image: url(https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_LongitudinalStudy_Screening/master/protocol/mainlogooval2.svg);
+          background-image: url(https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/mainlogooval2.svg);
           background-position: center;
           background-size: contain;
           background-repeat: no-repeat">
@@ -26,7 +26,7 @@
     </p>
   </div>
   <div class="image">
-    <img style="margin-bottom: -6px" src="https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_LongitudinalStudy_Screening/master/protocol/sld2.svg" alt="about"/>
+    <img style="margin-bottom: -6px" src="https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/sld2.svg" alt="about"/>
   </div>
 </div>
 </section>
@@ -80,7 +80,7 @@
     </p>
   </div>
     <div class="image">
-    <img style="margin-bottom: -6px" src="https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_LongitudinalStudy_Screening/master/protocol/appphone4.svg" alt="about"/>
+    <img style="margin-bottom: -6px" src="https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/appphone4.svg" alt="about"/>
   </div>
 </div>
 </section>
