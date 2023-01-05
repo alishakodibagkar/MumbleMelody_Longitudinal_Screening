@@ -1,0 +1,46 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Activity",
+    "@id": "questions_schema",
+    "prefLabel": "Questions",
+    "description": "Questions for the day",
+    "preamble": "Please answer the following questions:",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+                {"isAbout": "items/firstName_item",
+                "variableName": "firstName_item",
+                "isVis": true
+                },
+		{"isAbout": "items/lastName_item",
+                "variableName": "lastName_item",
+                "isVis": true
+                },
+		{"isAbout": "items/emailAddress_item",
+                "variableName": "emailAddress_item",
+                "isVis": true
+                },
+		{"isAbout": "items/fluencyToday_item",
+                "variableName": "fluencyToday_item",
+                "isVis": true
+                },
+		{"isAbout": "items/healthToday_item",
+                "variableName": "healthToday_item",
+                "isVis": true
+                }
+        ],
+        "order": [
+            "items/firstName_item",
+	    "items/lastName_item",
+	    "items/emailAddress_item",
+	    "items/fluencyToday_item",
+            "items/healthToday_item"
+        ],
+        "shuffle": false,
+        "allow": [
+			"reproschema:AutoAdvance",
+			"reproschema:AllowExport"
+		]
+    }
+}

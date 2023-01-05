@@ -20,7 +20,8 @@
     ],
     "ui": {
         "order": [
-            "../activity/introduction/introduction_schema"
+            "../activity/introduction/introduction_schema",
+	    "../activity/introduction/questions_schema"
         ],
         "shuffle": false,
         "addProperties": [
@@ -29,6 +30,13 @@
                 "variableName": "introduction_schema",
                 "prefLabel": {
                     "en": "Introduction"
+                }
+            },
+            {
+                "isAbout": "../activity/questions/questions_schema",
+                "variableName": "questions_schema",
+                "prefLabel": {
+                    "en": "Questions"
                 }
             }
         ],
