@@ -21,7 +21,7 @@
     "ui": {
         "order": [
             "../activity/introduction/introduction_schema",
-	    "../activity/introduction/questions_schema"
+	    "../activity/questions/questions_schema"
         ],
         "shuffle": false,
         "addProperties": [
