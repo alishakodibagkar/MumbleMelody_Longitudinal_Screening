@@ -1,15 +1,13 @@
 module.exports = {
   /* eslint-disable */
-  githubSrc: 'https://raw.githubusercontent.com/sensein/covid19/master/protocol/Covid19_schema',
+  githubSrc: 'https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/Covid19_schema',
   startButton: {
     "en": 'Join',
     "es": 'Participar'
   },
-  assetsPublicPath: '/covid19/',
+  assetsPublicPath: '/MumbleMelody_Longitudinal_Screening/',
   backendServer: 'https://sig.mit.edu/vb',
   showHelp: true,
-  contact: 'voice_survey@mit.edu',
-  emailSubject: 'Help with Covid19 study',
   checkMediaPermission: true
 };
 
