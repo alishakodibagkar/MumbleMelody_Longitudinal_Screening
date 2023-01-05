@@ -23,12 +23,12 @@
             },
             {
                 "name": "Same",
-                "value": 1
+                "value": 1,
 		"healthWorse": 0
             },
             {
                 "name": "My health is better today",
-                "value": 2
+                "value": 2,
 		"healthWorse": 0
             }
         ]
