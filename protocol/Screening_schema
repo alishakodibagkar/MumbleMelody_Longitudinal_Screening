@@ -28,7 +28,7 @@
                 "isAbout": "../activity/introduction/introduction_schema",
                 "variableName": "introduction_schema",
                 "prefLabel": {
-                    "en": "Introduction",
+                    "en": "Introduction"
                 }
             }
         ],
