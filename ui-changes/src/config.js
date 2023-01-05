@@ -1,9 +1,8 @@
 module.exports = {
   /* eslint-disable */
-  githubSrc: 'https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/Covid19_schema',
+  githubSrc: 'https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/Screening_schema',
   startButton: {
-    "en": 'Join',
-    "es": 'Participar'
+    "en": 'Join'
   },
   assetsPublicPath: '/MumbleMelody_Longitudinal_Screening/',
   backendServer: 'https://sig.mit.edu/vb',

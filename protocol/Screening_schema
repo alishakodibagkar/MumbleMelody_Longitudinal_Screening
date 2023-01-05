@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+        {
+            "activity_path": "https://raw.githubusercontent.com/ReproNim/reproschema-library/000ea1725a67b35944f67450057f8041cef090a7/activities/"
+        }
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "Screening_schema",
+    "prefLabel": {
+        "en": "Screening Session"
+    },
+    "description": "Screening Session for Mumble Melody Longitudinal Study",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "landingPage": [{
+            "@id": "README-en.md",
+            "inLanguage": "en"
+        }
+    ],
+    "ui": {
+        "order": [
+            "../activity/introduction/introduction_schema"
+        ],
+        "shuffle": false,
+        "addProperties": [
+            {
+                "isAbout": "../activity/introduction/introduction_schema",
+                "variableName": "introduction_schema",
+                "prefLabel": {
+                    "en": "Introduction",
+                }
+            }
+        ],
+        "allow": [
+            "reproschema:AutoAdvance",
+            "reproschema:AllowExport"
+        ]
+    }
+}
