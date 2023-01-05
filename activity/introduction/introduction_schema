@@ -1,7 +1,7 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Activity",
-    "@id": introduction_schema",
+    "@id": "introduction_schema",
     "prefLabel": "Introduction",
     "description": "Introduction",
     "preamble": "Welcome to the eligibility screening for the Mumble Melody longitudinal study.",
