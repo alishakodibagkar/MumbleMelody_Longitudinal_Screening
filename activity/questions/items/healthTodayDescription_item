@@ -13,7 +13,7 @@
     "responseOptions": {
         "valueType": "xsd:string",
         "maxLength": 300,
-	"isVis": "healthToday === '1'"
+	"isVis": "healthWorse === '1'"
 
     }
 }
