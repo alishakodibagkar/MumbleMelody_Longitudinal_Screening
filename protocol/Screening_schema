@@ -54,6 +54,13 @@
                 "prefLabel": {
                     "en": "Voice Check"
                 }
+            },
+            {
+                "isAbout": "../activity/voiceQuestions/voiceQustions_schema",
+                "variableName": "voiceQuestions_schema",
+                "prefLabel": {
+                    "en": "Screening"
+                }
             }
         ],
         "allow": [

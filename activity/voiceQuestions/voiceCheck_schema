@@ -1,0 +1,41 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc1/contexts/generic",
+    "@type": "reproschema:Activity",
+    "@id": "voiceQuestions_schema",
+    "prefLabel": "Voice Questions",
+    "description": "Voice Questions.",
+    "preamble": "Answer the questions below, using the entire timespan to speak",
+    "schemaVersion": "1.0.0-rc1",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+                {"isAbout": "items/introduction_item",
+                "variableName": "introduction_item",
+                "isVis": true
+		},
+		{"isAbout": "items/audio_passage_record_item_1",
+                "variableName": "audio_passage_record_item_1",
+                "isVis": true
+		},  
+		{"isAbout": "items/audio_passage_record_item_2",
+                "variableName": "audio_passage_record_item_2",
+                "isVis": true
+		}, 
+		{"isAbout": "items/audio_passage_record_item_3",
+                "variableName": "audio_passage_record_item_3",
+                "isVis": true
+		}       
+        ],
+        "order": [
+            "items/introduction_item",
+	    "items/audio_passage_record_item_1",
+            "items/audio_passage_record_item_2",
+            "items/audio_passage_record_item_3"
+        ],
+        "shuffle": false,
+        "allow": [
+			"reproschema:AutoAdvance",
+			"reproschema:AllowExport"
+		]
+    }
+}

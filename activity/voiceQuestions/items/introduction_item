@@ -1,0 +1,25 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "introduction_item",
+    "prefLabel": "introduction item",
+    "description": "Introduction to Voice Section",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Now we will be performing a baseline assessment to better understand your voice. Please do not use the Mumble Melody app for these tasks.<br><br>We will be asking you a set of open questions. After you are asked a question, record your voice using the record feature. You will see a countdown and be asked to speak for the entire time of the countdown. If you do not find the question inspiring, feel free to click Pass, and we will give you another question. Feel free to stutter freely. Please be aware that researchers will be reviewing these recordings. You will not be able to re-record your submission.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 0,
+        "multipleChoice": true,
+        "choices": [
+            {
+                "name": "I am ready to begin",
+                "value": 0
+            }
+        ]
+    }
+}
