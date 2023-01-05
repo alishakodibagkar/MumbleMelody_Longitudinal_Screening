@@ -12,9 +12,7 @@
                 {"isAbout": "items/audio_check_item",
                 "variableName": "audio_check_item",
                 "isVis": true
-                ]
-                }
-                
+		}            
         ],
         "order": [
             "items/audio_check_item"
