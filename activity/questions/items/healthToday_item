@@ -7,6 +7,7 @@
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "question": "How would you describe your health today, compared to your usual health?",
+    "healthWorse": 0
     "ui": {
         "inputType": "radio"
     },
@@ -18,7 +19,8 @@
         "choices": [
             {
                 "name": "My health is worse today",
-                "value": 0
+                "value": 0,
+		"healthWorse": 1
             },
             {
                 "name": "Same",
