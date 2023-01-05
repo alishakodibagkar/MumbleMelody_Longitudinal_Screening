@@ -58,7 +58,7 @@
                 }
             },
             {
-                "isAbout": "../activity/voiceQuestions/voiceQustions_schema",
+                "isAbout": "../activity/voiceQuestions/voiceQuestions_schema",
                 "variableName": "voiceQuestions_schema",
                 "prefLabel": {
                     "en": "Screening"
