@@ -45,7 +45,7 @@
                 "isAbout": "../activity/environmentCheck/environmentCheck_schema",
                 "variableName": "environmentCheck_schema",
                 "prefLabel": {
-                    "en": "Environment/Device Check"
+                    "en": "Environment and Device Check"
                 }
             },
             {
