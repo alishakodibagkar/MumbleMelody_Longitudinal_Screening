@@ -31,7 +31,7 @@
                 },
 		{"isAbout": "items/healthTodayDescription_item",
                 "variableName": "healthTodayDescription_item",
-                "isVis": "healthWorse === 1"
+                "isVis": "healthToday_item === 0"
                 }
         ],
         "order": [

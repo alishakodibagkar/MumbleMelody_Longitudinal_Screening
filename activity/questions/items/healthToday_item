@@ -19,17 +19,14 @@
             {
                 "name": "My health is worse today",
                 "value": 0,
-		"healthWorse": 1
             },
             {
                 "name": "Same",
                 "value": 1,
-		"healthWorse": 0
             },
             {
                 "name": "My health is better today",
                 "value": 2,
-		"healthWorse": 0
             }
         ]
     }
