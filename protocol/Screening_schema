@@ -63,6 +63,13 @@
                 "prefLabel": {
                     "en": "Screening"
                 }
+            },
+            {
+                "isAbout": "activity_path:ThankYou/ThankYou_schema",
+                "variableName": "ThankYou_schema",
+                "prefLabel": {
+                    "en": "Submit Responses"
+                }
             }
         ],
         "allow": [
