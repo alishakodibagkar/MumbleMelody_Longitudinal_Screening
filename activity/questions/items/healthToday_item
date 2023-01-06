@@ -18,15 +18,15 @@
         "choices": [
             {
                 "name": "My health is worse today",
-                "value": 0,
+                "value": 0
             },
             {
                 "name": "Same",
-                "value": 1,
+                "value": 1
             },
             {
                 "name": "My health is better today",
-                "value": 2,
+                "value": 2
             }
         ]
     }
