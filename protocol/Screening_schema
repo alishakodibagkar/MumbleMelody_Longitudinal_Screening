@@ -25,7 +25,7 @@
 	    "../activity/environmentCheck/environmentCheck_schema",
             "../activity/voiceCheck/voiceCheck_schema",
             "../activity/voiceQuestions/voiceQuestions_schema",
-	    "activity_path:ThankYou/ThankYou_schema"
+	    "../activity/ThankYou/ThankYou_schema"
 
         ],
         "shuffle": false,
@@ -66,7 +66,7 @@
                 }
             },
             {
-                "isAbout": "activity_path:ThankYou/ThankYou_schema",
+                "isAbout": "../activity/ThankYou/ThankYou_schema",
                 "variableName": "ThankYou_schema",
                 "prefLabel": {
                     "en": "Submit Responses"

@@ -1,0 +1,14 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "saveData",
+    "prefLabel": "Save data",
+    "description": "save data to server",
+    "schemaVersion": "1.0.0-rc1",
+    "version": "0.0.1",
+    "question": "Thank you for completing the screening session for this study!<br><br>We will reach out to you in ~1 week to let you know if you are eligible to participate in the Mumble Melody study.<br><br>If you are eligible to participate in this study, the study will require you to use an iPhone app every day for 15 minutes. No voice data will be collected during those daily sessions.<br>For this study, you will be asked to:<br>(1) Answer an initial survey
+Complete a 30-45 minute online baseline testing session<br>(2)Use the iOS application as you would like for 28 days (we recommend15 minutes each day)<br>(3)Complete 15-20 minute online testing sessions at the end of each week for 4 weeks<br>(4)Complete a survey at the end of the study.<br><br>As a reminder, those who qualify for weekly testing sessions can only qualify if their stuttering is at a moderate to severe level during the screening process, which means stutter-like disfluencies in more than 3% of total spoken syllables. This doesn’t have anything to do with YOUR identity as a person who stutters, whether the Mumble Melody app will be useful for you, or what situations you may stutter less or more than you did during the screening portion of the study. This only has to do with our screening procedure for the study. If you have downloaded or tried the Mumble Melody app and feel it has been beneficial to you, you are welcome to continue using the app.<br><br>Thank you again for your help with stuttering research.<br><br>When you are ready, click “submit” to send us your results. If you have any issues at all, click the “Download” button on the top left of your screen to export a file with your submission and email us at mumblemelody@mit.edu so we can troubleshoot and get the files sent our way.",
+    "ui": {
+        "inputType": "save",
+        "readonlyValue": true
+    }
