@@ -40,6 +40,14 @@
 		{"isAbout": "items/voiceHealthWarning_item",
                 "variableName": "voiceHealthWarning_item",
                 "isVis": "voiceHealth_item === 0"
+                },
+		{"isAbout": "items/otherHealth_item",
+                "variableName": "otherHealth_item",
+                "isVis": true
+                },
+		{"isAbout": "items/otherHealthDescription_item",
+                "variableName": "otherHealthDescription_item",
+                "isVis": "otherHealth_item === 0"
                 }
         ],
         "order": [
@@ -50,7 +58,9 @@
             "items/healthToday_item",
 	    "items/healthTodayDescription_item",
 	    "items/voiceHealth_item",
-            "items/voiceHealthWarning_item"
+            "items/voiceHealthWarning_item",
+	    "items/otherHealth_item",
+            "items/otherHealthDescription_item"
         ],
         "shuffle": false,
         "allow": [
