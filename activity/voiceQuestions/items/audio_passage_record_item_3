@@ -8,7 +8,7 @@
     "version": "0.0.1",
     "question": "Who is your oldest friend? How did you meet them?",
     "ui": {
-        "inputType": "audioPassageRecord"
+        "inputType": "audioCheck"
     },
     "responseOptions": {
         "valueType": "schema:AudioObject",

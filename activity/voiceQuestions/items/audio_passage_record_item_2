@@ -8,7 +8,7 @@
     "version": "0.0.1",
     "question": "What’s your favorite number and why? ",
     "ui": {
-        "inputType": "audioPassageRecord"
+        "inputType": "audioCheck"
     },
     "responseOptions": {
         "valueType": "schema:AudioObject",
