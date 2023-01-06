@@ -36,6 +36,10 @@
 		{"isAbout": "items/voiceHealth_item",
                 "variableName": "voiceHealth_item",
                 "isVis": true
+                },
+		{"isAbout": "items/voiceHealthWarning_item",
+                "variableName": "voiceHealthWarning_item",
+                "isVis": "voiceHealth_item === 0"
                 }
         ],
         "order": [
@@ -46,6 +50,7 @@
             "items/healthToday_item",
 	    "items/healthTodayDescription_item",
 	    "items/voiceHealth_item",
+            "items/voiceHealthWarning_item"
         ],
         "shuffle": false,
         "allow": [
