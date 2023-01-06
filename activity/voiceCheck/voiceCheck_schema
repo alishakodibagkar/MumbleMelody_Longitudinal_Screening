@@ -1,21 +1,26 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc1/contexts/generic",
+    "@context": [
+	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+        {
+            "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/000ea1725a67b35944f67450057f8041cef090a7/activities/VoiceTask/items/"
+        },
+    ],
     "@type": "reproschema:Activity",
     "@id": "voiceCheck_schema",
     "prefLabel": "Audio Check",
     "description": "Audio check.",
-    "preamble": "The following step will allow you to check if you are able to record your voice clearly. Feel free to adjust your volume and location until you are ready.",
-    "schemaVersion": "1.0.0-rc1",
+    "preamble": "For each speaking task, you should click the <u>Start</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
+    "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "ui": {
         "addProperties": [
-                {"isAbout": "items/audio_check_item",
-                "variableName": "audio_check_item",
+                {"variableName": "audio_check",
+                "isAbout": "voice_tasks:audio_check",
                 "isVis": true
 		}            
         ],
         "order": [
-            "items/audio_check_item"
+            "voice_tasks:audio_check"
         ],
         "shuffle": false,
         "allow": [
