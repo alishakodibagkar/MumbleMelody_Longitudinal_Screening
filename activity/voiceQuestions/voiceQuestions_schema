@@ -4,7 +4,7 @@
     "@id": "voiceQuestions_schema",
     "prefLabel": "Voice Questions",
     "description": "Voice Questions.",
-    "preamble": "Answer the questions below, using the entire timespan to speak",
+    "preamble": "For each speaking task, you should click the <u>Start</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
     "schemaVersion": "1.0.0-rc1",
     "version": "0.0.1",
     "ui": {
