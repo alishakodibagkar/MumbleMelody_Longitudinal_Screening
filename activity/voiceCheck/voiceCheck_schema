@@ -14,13 +14,13 @@
     "version": "0.0.1",
     "ui": {
         "addProperties": [
-                {"variableName": "audio_check",
-                "isAbout": "voice_tasks:audio_check",
+                {"variableName": "auto_record",
+                "isAbout": "voice_tasks:auto_record",
                 "isVis": true
 		}            
         ],
         "order": [
-            "voice_tasks:audio_check"
+            "voice_tasks:auto_record"
         ],
         "shuffle": false,
         "allow": [
