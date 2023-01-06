@@ -32,6 +32,10 @@
 		{"isAbout": "items/healthTodayDescription_item",
                 "variableName": "healthTodayDescription_item",
                 "isVis": "healthToday_item === 0"
+                },
+		{"isAbout": "items/voiceHealth_item",
+                "variableName": "voiceHealth_item",
+                "isVis": true
                 }
         ],
         "order": [
@@ -40,7 +44,8 @@
 	    "items/emailAddress_item",
 	    "items/fluencyToday_item",
             "items/healthToday_item",
-	   "items/healthTodayDescription_item"
+	    "items/healthTodayDescription_item",
+	    "items/voiceHealth_item",
         ],
         "shuffle": false,
         "allow": [
