@@ -1,7 +1,7 @@
 {
     "@context": ["https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     {
-            "audioCheck": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/27b17e0d24cf90846f91f820a36c2f47bb8828f4/src/components/Inputs/AudioCheck/AudioCheck.vue"
+            "ui": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/27b17e0d24cf90846f91f820a36c2f47bb8828f4/"
     }
     ],
     "@type": "reproschema:Field",
