@@ -15,7 +15,8 @@
     "version": "0.0.1",
     "ui": {
         "addProperties": [
-                {"variableName": "audio_check",
+                {"inputType": "audioCheck",
+		"variableName": "audio_check",
                 "isAbout": "voice_tasks:audio_check",
                 "isVis": true
 		}            
