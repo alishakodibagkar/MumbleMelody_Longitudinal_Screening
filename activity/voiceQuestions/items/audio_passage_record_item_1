@@ -1,7 +1,7 @@
 {
     "@context": ["https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     {
-            "reproschema": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/"
+            "reproschema": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/27b17e0d24cf90846f91f820a36c2f47bb8828f4/"
     }
     ],
     "@type": "reproschema:Field",
