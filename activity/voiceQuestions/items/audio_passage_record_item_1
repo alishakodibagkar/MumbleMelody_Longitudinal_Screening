@@ -1,9 +1,5 @@
 {
-    "@context": ["https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
-    {
-            "ui": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/27b17e0d24cf90846f91f820a36c2f47bb8828f4/"
-    }
-    ],
+    "@context":["https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
     "@id": "audio_passage_record_item_1",
     "prefLabel": "audio passage record item",
