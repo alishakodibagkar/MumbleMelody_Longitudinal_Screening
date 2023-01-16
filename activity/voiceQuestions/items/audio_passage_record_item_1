@@ -12,7 +12,7 @@
     "version": "0.0.1",
     "question": "Please tell us about something memorable that happened to you this week",
     "ui": {
-        "inputType": "audioCheck"
+        "inputType": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/27b17e0d24cf90846f91f820a36c2f47bb8828f4/src/components/Inputs/AudioCheck/AudioCheck.vue"
     },
     "responseOptions": {
         "valueType": "schema:AudioObject",
