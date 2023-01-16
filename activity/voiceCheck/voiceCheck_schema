@@ -1,6 +1,6 @@
 {
     "@context": [
-	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
+	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
         {
             "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/7fe32d9f5fc69118110572f0607e51990d5fe21b/activities/VoiceTask/items/"
         }
