@@ -1,7 +1,7 @@
 {
     "@context": [
 	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
-	"https://github.com/ReproNim/reproschema-ui/commit/27b17e0d24cf90846f91f820a36c2f47bb8828f4"
+	"https://github.com/ReproNim/reproschema-ui/commit/27b17e0d24cf90846f91f820a36c2f47bb8828f4",
         {
             "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/a996c81dd546051f192db03b03da6d8ee8ff6a25/activities/VoiceTask/items/"
         }
