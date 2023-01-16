@@ -2,8 +2,7 @@
     "@context": [
 	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
         {
-            "audioCheck": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/src/components/Inputs/AudioCheck/AudioCheck.vue",
-	    "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/9c7ab57abded2c40dfb8ae9da52171ed2c0fdb6c/activities/VoiceTask/items/"
+            "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/000ea1725a67b35944f67450057f8041cef090a7/activities/VoiceTask/items/"
         }
     ],
     "@type": "reproschema:Activity",
