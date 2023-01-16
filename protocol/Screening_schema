@@ -13,17 +13,13 @@
     "description": "Screening Session for Mumble Melody Longitudinal Study",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "landingPage": [{
-            "@id": "README.md"
-        }
-    ],
+    "landingPage": "@id": "README.md",
     "ui": {
         "order": [
 	    "../activity/questions/questions_schema",
             "../activity/voiceCheck/voiceCheck_schema",
             "../activity/voiceQuestions/voiceQuestions_schema",
 	    "../activity/ThankYou/ThankYou_schema"
-
         ],
         "shuffle": false,
         "addProperties": [
