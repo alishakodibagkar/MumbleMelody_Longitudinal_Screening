@@ -1,9 +1,9 @@
 {
     "@context": [
-	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
-	"https://github.com/ReproNim/reproschema-ui/commit/27b17e0d24cf90846f91f820a36c2f47bb8828f4",
+	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
         {
-            "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/a996c81dd546051f192db03b03da6d8ee8ff6a25/activities/VoiceTask/items/"
+            "audioCheck": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/src/components/Inputs/AudioCheck/",
+	    "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/9c7ab57abded2c40dfb8ae9da52171ed2c0fdb6c/activities/VoiceTask/items/"
         }
     ],
     "@type": "reproschema:Activity",
