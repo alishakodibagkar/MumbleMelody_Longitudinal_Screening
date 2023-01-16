@@ -10,7 +10,7 @@
     "prefLabel": "Audio Check",
     "description": "Audio check.",
     "preamble": "For each speaking task, you should click the <u>Start</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
-    "schemaVersion": "1.0.0-rc2",
+    "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "ui": {
         "addProperties": [
