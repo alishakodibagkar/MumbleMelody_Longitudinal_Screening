@@ -20,9 +20,7 @@
     ],
     "ui": {
         "order": [
-            "../activity/introduction/introduction_schema",
 	    "../activity/questions/questions_schema",
-	    "../activity/environmentCheck/environmentCheck_schema",
             "../activity/voiceCheck/voiceCheck_schema",
             "../activity/voiceQuestions/voiceQuestions_schema",
 	    "../activity/ThankYou/ThankYou_schema"
@@ -31,24 +29,10 @@
         "shuffle": false,
         "addProperties": [
             {
-                "isAbout": "../activity/introduction/introduction_schema",
-                "variableName": "introduction_schema",
-                "prefLabel": {
-                    "en": "Introduction"
-                }
-            },
-            {
                 "isAbout": "../activity/questions/questions_schema",
                 "variableName": "questions_schema",
                 "prefLabel": {
                     "en": "Questions"
-                }
-            },
-            {
-                "isAbout": "../activity/environmentCheck/environmentCheck_schema",
-                "variableName": "environmentCheck_schema",
-                "prefLabel": {
-                    "en": "Environment and Device Check"
                 }
             },
             {
