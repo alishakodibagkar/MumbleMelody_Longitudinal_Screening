@@ -2,7 +2,7 @@
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     {
             "audioCheck": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/src/components/Inputs/AudioCheck/AudioCheck.vue"
-    }
+    },
     "@type": "reproschema:Field",
     "@id": "audio_passage_record_item_1",
     "prefLabel": "audio passage record item",
