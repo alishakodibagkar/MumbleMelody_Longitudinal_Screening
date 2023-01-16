@@ -2,7 +2,7 @@
     "@context": [
 	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
         {
-            "audioCheck": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/src/components/Inputs/AudioCheck/",
+            "audioCheck": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/src/components/Inputs/AudioCheck/AudioCheck.vue",
 	    "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/9c7ab57abded2c40dfb8ae9da52171ed2c0fdb6c/activities/VoiceTask/items/"
         }
     ],
@@ -11,12 +11,11 @@
     "prefLabel": "Audio Check",
     "description": "Audio check.",
     "preamble": "For each speaking task, you should click the <u>Start</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
-    "schemaVersion": "1.0.0-rc2",
+    "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "ui": {
         "addProperties": [
-                {"inputType": "audioCheck",
-		"variableName": "audio_check",
+                {"variableName": "audio_check",
                 "isAbout": "voice_tasks:audio_check",
                 "isVis": true
 		}            
