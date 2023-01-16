@@ -1,7 +1,7 @@
 {
     "@context": ["https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     {
-            "audioCheck_version": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/"
+            "reproschema": "https://raw.githubusercontent.com/ReproNim/reproschema-ui/4545eb736b590b80caba44cfc58d4304fd26f131/"
     }
     ],
     "@type": "reproschema:Field",
@@ -12,8 +12,7 @@
     "version": "0.0.1",
     "question": "Please tell us about something memorable that happened to you this week",
     "ui": {
-        "inputType": "audioCheck",
-        "@nest": "audioCheck_version"
+        "inputType": "reproschema:audioCheck"
     },
     "responseOptions": {
         "valueType": "schema:AudioObject",
