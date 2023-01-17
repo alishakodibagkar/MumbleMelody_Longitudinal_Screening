@@ -19,11 +19,17 @@
 		},  
 		{"isAbout": "items/audio_passage_record_item_2",
                 "variableName": "audio_passage_record_item_2",
-                "isVis": true
+                "isVis": true,
+		"allow": [
+                    "reproschema:Skipped"
+                ]
 		}, 
 		{"isAbout": "items/audio_passage_record_item_3",
                 "variableName": "audio_passage_record_item_3",
-                "isVis": true
+                "isVis": true,
+		"allow": [
+                    "reproschema:Skipped"
+                ]
 		}, 
 		{"isAbout": "items/audio_passage_record_item_4",
                 "variableName": "audio_passage_record_item_4",
