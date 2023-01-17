@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "audio_passage_record_item_2",
+    "@id": "audio_passage_record_item_7",
     "prefLabel": "audio passage record item",
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What is one thing you wished your phone could do?",
+    "question": "When was the last time you got to tell someone “I told you so.”?",
     "ui": {
         "inputType": "audioCheck"
     },
