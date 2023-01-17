@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "audio_passage_record_item_5",
+    "@id": "open_question_8",
     "prefLabel": "audio passage record item",
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What is a fashion trend you wish never had started?",
+    "question": "<b>What is the best movie sequel of all times? Why?<b>",
     "ui": {
         "inputType": "audioCheck"
     },

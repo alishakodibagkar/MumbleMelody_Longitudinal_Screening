@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "audio_passage_record_item_6",
+    "@id": "open_question_6",
     "prefLabel": "audio passage record item",
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What is your favorite poem and why do you like it?",
+    "question": "<b>What is your favorite poem and why do you like it?<b>",
     "ui": {
         "inputType": "audioCheck"
     },

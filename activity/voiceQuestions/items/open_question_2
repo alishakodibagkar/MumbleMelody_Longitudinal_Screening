@@ -6,7 +6,7 @@
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What is one thing you wished your phone could do?",
+    "question": "<b>What is one thing you wished your phone could do?<b>",
     "ui": {
         "inputType": "audioCheck"
     },
