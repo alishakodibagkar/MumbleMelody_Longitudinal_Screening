@@ -36,7 +36,7 @@
             "items/introduction_item",
 	    "items/audio_passage_record_item_1",
             "items/audio_passage_record_item_2",
-            "items/audio_passage_record_item_3",
+            "items/audio_passage_record_item_3"
         ],
         "shuffle": false,
         "allow": [
