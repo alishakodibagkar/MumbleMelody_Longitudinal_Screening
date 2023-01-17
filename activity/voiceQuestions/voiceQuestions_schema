@@ -35,7 +35,7 @@
 		},  
 		{"isAbout": "items/open_question_choice_4",
                 "variableName": "open_question_choice_4",
-                "isVis": true
+                "isVis": "open_question_choice_2 + open_question_choice_3 < 2"
 		}, 
 		{"isAbout": "items/open_question_4",
                 "variableName": "open_question_4",
@@ -43,7 +43,7 @@
 		},  
 		{"isAbout": "items/open_question_choice_5",
                 "variableName": "open_question_choice_5",
-                "isVis": true
+                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 < 2"
 		}, 
 		{"isAbout": "items/open_question_5",
                 "variableName": "open_question_5",
@@ -51,7 +51,7 @@
 		},  
 		{"isAbout": "items/open_question_choice_6",
                 "variableName": "open_question_choice_6",
-                "isVis": true
+                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 + open_question_choice_5 < 2"
 		}, 
 		{"isAbout": "items/open_question_6",
                 "variableName": "open_question_6",
@@ -59,7 +59,7 @@
 		},  
 		{"isAbout": "items/open_question_choice_7",
                 "variableName": "open_question_choice_7",
-                "isVis": true
+                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 + open_question_choice_5 + open_question_choice_6 < 2"
 		}, 
 		{"isAbout": "items/open_question_7",
                 "variableName": "open_question_7",
@@ -67,7 +67,7 @@
 		},  
 		{"isAbout": "items/open_question_choice_8",
                 "variableName": "open_question_choice_8",
-                "isVis": true
+                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 + open_question_choice_5 + open_question_choice_6 + open_question_choice_7 < 2"
 		}, 
 		{"isAbout": "items/open_question_8",
                 "variableName": "open_question_8",
@@ -90,7 +90,7 @@
             "items/open_question_choice_7",
             "items/open_question_7",
             "items/open_question_choice_8",
-            "items/open_question_8"
+            "items/open_question_8",
         ],
         "shuffle": false,
         "allow": [
