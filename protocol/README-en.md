@@ -35,16 +35,10 @@
 <section>
   <div class="text" style="padding-top: 1rem">
     <h3>About this Session</h3>
-    <p>This initial screening session will determine if you are eligible to participate in this study. 
-    </p>
-  </div>
-  <div class="text" style="padding-top: 1rem">
-    <h3>About this Session</h3>
-    <p>Here is how the session will take place today:<br>
+    <p>This initial screening session will determine if you are eligible to participate in this study. Here is how the session will take place today:<br>
 <br>(1) First, we will ask you a few questions.
-<br>(2) Next, we will ask you to make sure your environment is set up for the study.
-<br>(3) Next, we will ask you to do a volume check to ensure recording quality.
-<br>(4) Next, we will establish your fluency baseline with a series of open questions and passage-reading tasks
+<br>(2) Next, we will ask you to do a volume check to ensure recording quality.
+<br>(3) Next, we will establish your fluency baseline with a series of open questions and passage-reading tasks
 <br><br>Please note that we will NOT be keeping recordings from this screening session and will be destroying them for your privacy after evaluating your eligibility.
     </p>
   </div>
