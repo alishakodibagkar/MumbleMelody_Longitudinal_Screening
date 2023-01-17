@@ -19,10 +19,6 @@
             {
                 "name": "Answer",
                 "value": 1
-            },
-            {
-                "name": "Skip",
-                "value": 0
             }
         ]
     }
