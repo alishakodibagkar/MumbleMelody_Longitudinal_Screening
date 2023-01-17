@@ -51,9 +51,6 @@
     <p> After completing this screening, we will notify you in around 1 week of your eligibility to continue this study for around 28 days. Please refrain from using the Mumble Melody app until then. If you qualify to continue the study, we will be sending you information on how to participate. Those who qualify for weekly testing sessions can only qualify if their stuttering is at a moderate to severe level during the screening process, which means stutter-like disfluencies in more than 3% of total spoken syllables. This doesn’t have anything to do with YOUR identity as a person who stutters, whether the Mumble Melody app will be useful for you, or what situations you may stutter less or more than you did during the screening portion of the study. This only has to do with our screening procedure for the study. If you have downloaded or tried the Mumble Melody app and feel it has been beneficial to you, you are welcome to continue using the app until it expires.
     </p>
   </div>
-    <div class="image">
-    <img style="margin-bottom: -6px" src="https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/appphone4.svg" alt="about"/>
-  </div>
 </div>
 </section>
 
