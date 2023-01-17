@@ -1,7 +1,7 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "open_question_8",
+    "@id": "passage_read",
     "prefLabel": "audio passage record item",
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
