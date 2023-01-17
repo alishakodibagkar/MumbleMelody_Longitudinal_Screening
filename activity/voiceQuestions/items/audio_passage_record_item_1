@@ -14,8 +14,5 @@
         "valueType": "schema:AudioObject",
         "minValue": 0,
         "maxValue": 60000
-    },
-    "allow": [
-            "reproschema:Skipped"
-            ]
+    }
 }
