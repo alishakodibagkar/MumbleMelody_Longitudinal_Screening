@@ -14,5 +14,6 @@
         "valueType": "schema:AudioObject",
         "minValue": 0,
         "maxValue": 90000
+        "value": 1
     }
 }
