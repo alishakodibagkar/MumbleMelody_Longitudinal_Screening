@@ -1,8 +1,8 @@
 {
     "@context": [
-	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+	"https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
         {
-            "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/43e7afab312596708c0ad4dfd45b69c8904088ae 7/activities/VoiceTask/items/"
+            "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/000ea1725a67b35944f67450057f8041cef090a7/activities/VoiceTask/items/"
         }
     ],
     "@type": "reproschema:Activity",
@@ -10,7 +10,7 @@
     "prefLabel": "Audio Check",
     "description": "Audio check.",
     "preamble": "For each speaking task, you should click the <u>Start</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
-    "schemaVersion": "1.0.0-rc4",
+    "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
     "ui": {
         "addProperties": [
