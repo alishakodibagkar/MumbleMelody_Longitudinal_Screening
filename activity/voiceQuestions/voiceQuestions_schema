@@ -23,7 +23,7 @@
 		}, 
 		{"isAbout": "items/open_question_2",
                 "variableName": "open_question_2",
-                "isVis": "open_question_choice_2 == 0"
+                "isVis": "open_question_choice_2 == 1"
 		},  
 		{"isAbout": "items/open_question_choice_3",
                 "variableName": "open_question_choice_3",
@@ -31,7 +31,7 @@
 		}, 
 		{"isAbout": "items/open_question_3",
                 "variableName": "open_question_3",
-                "isVis": "open_question_choice_3 == 0"
+                "isVis": "open_question_choice_3 == 1"
 		},  
 		{"isAbout": "items/open_question_choice_4",
                 "variableName": "open_question_choice_4",
@@ -39,7 +39,7 @@
 		}, 
 		{"isAbout": "items/open_question_4",
                 "variableName": "open_question_4",
-                "isVis": "open_question_choice_4 == 0"
+                "isVis": "open_question_choice_4 == 1"
 		},  
 		{"isAbout": "items/open_question_choice_5",
                 "variableName": "open_question_choice_5",
@@ -47,7 +47,7 @@
 		}, 
 		{"isAbout": "items/open_question_5",
                 "variableName": "open_question_5",
-                "isVis": "open_question_choice_5 == 0"
+                "isVis": "open_question_choice_5 == 1"
 		},  
 		{"isAbout": "items/open_question_choice_6",
                 "variableName": "open_question_choice_6",
@@ -55,7 +55,7 @@
 		}, 
 		{"isAbout": "items/open_question_6",
                 "variableName": "open_question_6",
-                "isVis": "open_question_choice_6 == 0"
+                "isVis": "open_question_choice_6 == 1"
 		},  
 		{"isAbout": "items/open_question_choice_7",
                 "variableName": "open_question_choice_7",
@@ -63,7 +63,7 @@
 		}, 
 		{"isAbout": "items/open_question_7",
                 "variableName": "open_question_7",
-                "isVis": "open_question_choice_7 == 0"
+                "isVis": "open_question_choice_7 == 1"
 		},  
 		{"isAbout": "items/open_question_choice_8",
                 "variableName": "open_question_choice_8",
@@ -71,7 +71,7 @@
 		}, 
 		{"isAbout": "items/open_question_8",
                 "variableName": "open_question_8",
-                "isVis": "open_question_choice_8 == 0"
+                "isVis": "open_question_choice_8 == 1"
 		}
         ],
         "order": [
