@@ -78,7 +78,19 @@
             "items/introduction_item",
 	    "items/open_question_1",
             "items/open_question_choice_2",
-            "items/open_question_2"
+            "items/open_question_2",
+            "items/open_question_choice_3",
+            "items/open_question_3",
+            "items/open_question_choice_4",
+            "items/open_question_4",
+            "items/open_question_choice_5",
+            "items/open_question_5",
+            "items/open_question_choice_6",
+            "items/open_question_6",
+            "items/open_question_choice_7",
+            "items/open_question_7",
+            "items/open_question_choice_8",
+            "items/open_question_8"
         ],
         "shuffle": false,
         "allow": [
