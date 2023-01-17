@@ -24,6 +24,54 @@
 		{"isAbout": "items/open_question_2",
                 "variableName": "open_question_2",
                 "isVis": "open_question_choice_2 == 0"
+		},  
+		{"isAbout": "items/open_question_choice_3",
+                "variableName": "open_question_choice_3",
+                "isVis": true
+		}, 
+		{"isAbout": "items/open_question_3",
+                "variableName": "open_question_3",
+                "isVis": "open_question_choice_3 == 0"
+		},  
+		{"isAbout": "items/open_question_choice_4",
+                "variableName": "open_question_choice_4",
+                "isVis": true
+		}, 
+		{"isAbout": "items/open_question_4",
+                "variableName": "open_question_4",
+                "isVis": "open_question_choice_4 == 0"
+		},  
+		{"isAbout": "items/open_question_choice_5",
+                "variableName": "open_question_choice_5",
+                "isVis": true
+		}, 
+		{"isAbout": "items/open_question_5",
+                "variableName": "open_question_5",
+                "isVis": "open_question_choice_5 == 0"
+		},  
+		{"isAbout": "items/open_question_choice_6",
+                "variableName": "open_question_choice_6",
+                "isVis": true
+		}, 
+		{"isAbout": "items/open_question_6",
+                "variableName": "open_question_6",
+                "isVis": "open_question_choice_6 == 0"
+		},  
+		{"isAbout": "items/open_question_choice_7",
+                "variableName": "open_question_choice_7",
+                "isVis": true
+		}, 
+		{"isAbout": "items/open_question_7",
+                "variableName": "open_question_7",
+                "isVis": "open_question_choice_7 == 0"
+		},  
+		{"isAbout": "items/open_question_choice_8",
+                "variableName": "open_question_choice_8",
+                "isVis": true
+		}, 
+		{"isAbout": "items/open_question_8",
+                "variableName": "open_question_8",
+                "isVis": "open_question_choice_8 == 0"
 		}
         ],
         "order": [

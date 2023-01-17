@@ -6,7 +6,7 @@
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "<b>When was the last time you got to tell someone “I told you so.”?<b>",
+    "question": "Answer the following question for 90 seconds:<br><b>When was the last time you got to tell someone “I told you so.”?<b>",
     "ui": {
         "inputType": "audioCheck"
     },
