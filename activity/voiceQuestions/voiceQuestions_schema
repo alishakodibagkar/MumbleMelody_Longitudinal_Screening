@@ -27,7 +27,7 @@
 		}, 
 		{"isAbout": "items/audio_passage_record_item_4",
                 "variableName": "audio_passage_record_item_4",
-                "isVis": "audio_passage_record_item_1 + audio_passage_record_item_2 + audio_passage_record_item_3 < 240"
+                "isVis": "audio_passage_record_item_1 + audio_passage_record_item_2 + audio_passage_record_item_3 < 240000"
 		}      
         ],
         "order": [
