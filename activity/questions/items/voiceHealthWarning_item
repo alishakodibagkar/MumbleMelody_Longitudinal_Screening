@@ -14,7 +14,7 @@
         "valueType": "xsd:integer",
         "minValue": 0,
         "maxValue": 0,
-        "multipleChoice": true,
+        "multipleChoice": false,
         "choices": [
             {
                 "name": "I would like to continue",
