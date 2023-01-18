@@ -28,7 +28,7 @@
 		{"isAbout": "items/open_question_3",
                 "variableName": "open_question_choice_3",
                 "isVis": "open_question_choice_1 === 1"
-		}
+		},
 		{"isAbout": "items/open_question_choice_2",
                 "variableName": "open_question_choice_2",
                 "isVis": true
