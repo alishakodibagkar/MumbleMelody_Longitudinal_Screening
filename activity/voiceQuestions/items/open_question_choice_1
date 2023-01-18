@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "open_question_choice_3",
+    "@id": "open_question_choice_1",
     "prefLabel": "Choice to answer open question",
     "description": "Choice to answer open question - radio item",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Answer the following question for 90 seconds:<br><b>When is the most interesting period in history? Why?<b>",
+    "question": "Which of the following two questions would you like to answer? (90 seconds)<b>",
     "ui": {
         "inputType": "radio"
     },
@@ -17,12 +17,12 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Answer",
-                "value": 1
+                "name": "What is one thing you wished your phone could do?",
+                "value": 0
             },
             {
-                "name": "Skip",
-                "value": 0
+                "name": "When is the most interesting period in history? Why?",
+                "value": 1
             }
         ]
     }

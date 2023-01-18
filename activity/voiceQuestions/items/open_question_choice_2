@@ -6,7 +6,7 @@
     "description": "Choice to answer open question - radio item",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Answer the following question for 90 seconds:<br><b>What is one thing you wished your phone could do?<b>",
+    "question": "Which of the following two questions would you like to answer? (90 seconds)<b>",
     "ui": {
         "inputType": "radio"
     },
@@ -17,12 +17,12 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Answer",
-                "value": 1
+                "name": "If you could be from anywhere, where would you want to be from and why?",
+                "value": 0
             },
             {
-                "name": "Skip",
-                "value": 0
+                "name": "What is a fashion trend you wish never had started?",
+                "value": 1
             }
         ]
     }

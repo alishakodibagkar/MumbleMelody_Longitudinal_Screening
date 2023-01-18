@@ -17,61 +17,29 @@
                 "variableName": "open_question_1",
                 "isVis": true
 		},  
-		{"isAbout": "items/open_question_choice_2",
-                "variableName": "open_question_choice_2",
+		{"isAbout": "items/open_question_choice_1",
+                "variableName": "open_question_choice_1",
                 "isVis": true
 		}, 
 		{"isAbout": "items/open_question_2",
                 "variableName": "open_question_2",
-                "isVis": "open_question_choice_2 == 1"
+                "isVis": "open_question_choice_1 == 0"
 		},  
-		{"isAbout": "items/open_question_choice_3",
-                "variableName": "open_question_choice_3",
-                "isVis": true
-		}, 
 		{"isAbout": "items/open_question_3",
-                "variableName": "open_question_3",
-                "isVis": "open_question_choice_3 == 1"
-		},  
-		{"isAbout": "items/open_question_choice_4",
-                "variableName": "open_question_choice_4",
-                "isVis": "open_question_choice_2 + open_question_choice_3 < 2"
+                "variableName": "open_question_choice_3",
+                "isVis": "open_question_choice_1 == 1"
+		}
+		{"isAbout": "items/open_question_choice_2",
+                "variableName": "open_question_choice_2",
+                "isVis": true
 		}, 
 		{"isAbout": "items/open_question_4",
                 "variableName": "open_question_4",
-                "isVis": "open_question_choice_4 == 1"
-		},  
-		{"isAbout": "items/open_question_choice_5",
-                "variableName": "open_question_choice_5",
-                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 < 2"
-		}, 
+                "isVis": "open_question_choice_2 == 0"
+		}
 		{"isAbout": "items/open_question_5",
                 "variableName": "open_question_5",
-                "isVis": "open_question_choice_5 == 1"
-		},  
-		{"isAbout": "items/open_question_choice_6",
-                "variableName": "open_question_choice_6",
-                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 + open_question_choice_5 < 2"
-		}, 
-		{"isAbout": "items/open_question_6",
-                "variableName": "open_question_6",
-                "isVis": "open_question_choice_6 == 1"
-		},  
-		{"isAbout": "items/open_question_choice_7",
-                "variableName": "open_question_choice_7",
-                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 + open_question_choice_5 + open_question_choice_6 < 2"
-		}, 
-		{"isAbout": "items/open_question_7",
-                "variableName": "open_question_7",
-                "isVis": "open_question_choice_7 == 1"
-		},  
-		{"isAbout": "items/open_question_choice_8",
-                "variableName": "open_question_choice_8",
-                "isVis": "open_question_choice_2 + open_question_choice_3 + open_question_choice_4 + open_question_choice_5 + open_question_choice_6 + open_question_choice_7 < 2"
-		}, 
-		{"isAbout": "items/open_question_8",
-                "variableName": "open_question_8",
-                "isVis": "open_question_choice_8 == 1"
+                "isVis": "open_question_choice_2 == 1"
 		},
 		{"isAbout": "items/passage_read",
                 "variableName": "passage_read",
@@ -81,20 +49,12 @@
         "order": [
             "items/introduction_item",
 	    "items/open_question_1",
-            "items/open_question_choice_2",
+            "items/open_question_choice_1",
             "items/open_question_2",
-            "items/open_question_choice_3",
             "items/open_question_3",
-            "items/open_question_choice_4",
+            "items/open_question_choice_2",
             "items/open_question_4",
-            "items/open_question_choice_5",
             "items/open_question_5",
-            "items/open_question_choice_6",
-            "items/open_question_6",
-            "items/open_question_choice_7",
-            "items/open_question_7",
-            "items/open_question_choice_8",
-            "items/open_question_8",
 	    "items/passage_read"
         ],
         "shuffle": false,
