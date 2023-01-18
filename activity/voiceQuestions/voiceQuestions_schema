@@ -23,11 +23,11 @@
 		}, 
 		{"isAbout": "items/open_question_2",
                 "variableName": "open_question_2",
-                "isVis": "open_question_choice_1 == 0"
+                "isVis": "open_question_choice_1 === 0"
 		},  
 		{"isAbout": "items/open_question_3",
                 "variableName": "open_question_choice_3",
-                "isVis": "open_question_choice_1 == 1"
+                "isVis": "open_question_choice_1 === 1"
 		}
 		{"isAbout": "items/open_question_choice_2",
                 "variableName": "open_question_choice_2",
@@ -35,11 +35,11 @@
 		}, 
 		{"isAbout": "items/open_question_4",
                 "variableName": "open_question_4",
-                "isVis": "open_question_choice_2 == 0"
+                "isVis": "open_question_choice_2 === 0"
 		}
 		{"isAbout": "items/open_question_5",
                 "variableName": "open_question_5",
-                "isVis": "open_question_choice_2 == 1"
+                "isVis": "open_question_choice_2 === 1"
 		},
 		{"isAbout": "items/passage_read",
                 "variableName": "passage_read",
