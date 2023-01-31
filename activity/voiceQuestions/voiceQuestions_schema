@@ -40,6 +40,10 @@
 		{"isAbout": "items/open_question_5",
                 "variableName": "open_question_5",
                 "isVis": "open_question_choice_2 === 1"
+		},
+		{"isAbout": "items/passage_read",
+                "variableName": "passage_read",
+                "isVis": true
 		}
         ],
         "order": [
@@ -50,7 +54,9 @@
             "items/open_question_3",
             "items/open_question_choice_2",
             "items/open_question_4",
-            "items/open_question_5"
+            "items/open_question_5",
+            "items/passage_read",
+		
         ],
         "shuffle": false,
         "allow": [
