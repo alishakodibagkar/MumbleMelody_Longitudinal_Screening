@@ -55,7 +55,7 @@
             "items/open_question_choice_2",
             "items/open_question_4",
             "items/open_question_5",
-            "items/passage_read",
+            "items/passage_read"
 		
         ],
         "shuffle": false,
