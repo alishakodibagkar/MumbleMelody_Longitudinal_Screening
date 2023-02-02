@@ -4,7 +4,7 @@
     "@id": "voiceQuestions_schema",
     "prefLabel": "Voice Questions",
     "description": "Voice Questions.",
-    "preamble": "TIME REMAINING: ~10 min<b><b>For each speaking task, you should click the <u>Record</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
+    "preamble": "TIME REMAINING: ~10 min<br><br>For each speaking task, you should click the <u>Record</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "ui": {
