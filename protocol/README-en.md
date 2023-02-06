@@ -31,7 +31,7 @@
     <p>This initial screening session will determine if you are eligible to participate in this study. Here is how the session will take place today:<br>
 <br>Step 1: Initial Questions
 <br>Step 2: Audio Check
-<br>Step 3: Voice Recording Tasks
+<br>Step 3: Voice Recording Tasks (open-ended questions and passage reading)
   </div>
 </div>
 </section>
