@@ -29,17 +29,18 @@
   <div class="text" style="padding-top: 1rem">
     <h3>About this Session</h3>
     <p>This initial screening session will determine if you are eligible to participate in this study. Here is how the session will take place today:<br>
-<br>Step 1: Initial Questions
-<br>Step 2: Audio Check
-<br>Step 3: Voice Recording Tasks (open-ended questions and passage reading)
+<br><b>Step 1:</b> Initial Questions
+<br><b>Step 2:</b> Audio Check
+<br><b>Step 3:</b> Voice Recording Tasks (open-ended questions and passage reading)
   </div>
 </div>
 </section>
 
+
 <section>
   <div class="text" style="padding-top: 1rem">
     <h3>Materials Needed</h3>
-    <p>1) Browser-supporting device with a microphone (used to conduct this session) - do not use your Apple device
+    <p>1) Browser-supporting device with a microphone (used to conduct this session)
   </div>
 </div>
 </section>
