@@ -31,8 +31,15 @@
     <p>This initial screening session will determine if you are eligible to participate in this study. Here is how the session will take place today:<br>
 <br>Step 1: Initial Questions
 <br>Step 2: Audio Check
-<br>Step 3: Voice recording tasks (open-ended questions and passage reading)
-    </p> Please use your  additional browser-supporting device with a microphone to perform this session, NOT your Apple device.
+<br>Step 3: Voice Recording Tasks
+  </div>
+</div>
+</section>
+
+<section>
+  <div class="text" style="padding-top: 1rem">
+    <h3>Materials Needed</h3>
+    <p>1) Browser-supporting device with a microphone (used to conduct this session) - do not use your Apple device
   </div>
 </div>
 </section>
@@ -41,7 +48,7 @@
 <section>
   <div class="text" style="padding-top: 1rem">
     <h3>Ready to Get Started?</h3>
-    <p>Once you feel ready to begin, click the Join button below:
+    <p>Click the Join button below:
     </p>
   </div>
 </div>
