@@ -6,7 +6,7 @@ module.exports = {
   },
   banner: 'Eligibility Screening for Mumble Melody Longitudinal Study',
   assetsPublicPath: '/MumbleMelody_Longitudinal_Screening/',
-  dataUploadPath: 'mumblemelody/mumblemelody_longitudinal/mumblemelody_longitudinal_screening',
+  dataUploadPath: '/storage/gablab001/db/mhdb/uploads/Responses/mumblemelody/mumblemelody_longitudinal/mumblemelody_longitudinal_screening/',
   backendServer: 'https://sig.mit.edu/vb',
   contact: 'akodiba1@mit.edu',
   showHelp: true,
