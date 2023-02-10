@@ -5,7 +5,7 @@ module.exports = {
     "en": 'Join'
   },
   banner: 'Eligibility Screening for Mumble Melody Longitudinal Study',
-  assetsPublicPath: '/MumbleMelody_Longitudinal_Screening/',
+  assetsPublicPath: 'MumbleMelody/MumbleMelody_Longitudinal_Screening/',
   backendServer: 'https://sig.mit.edu/vb',
   contact: 'akodiba1@mit.edu',
   showHelp: true,
