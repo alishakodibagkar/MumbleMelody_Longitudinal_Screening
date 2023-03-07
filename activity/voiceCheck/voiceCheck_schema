@@ -14,7 +14,7 @@
     "ui": {
         "addProperties": [
                 {"isAbout": "voice_tasks:audio_check",
-                "variableName": "voiceCheck_item",
+                "variableName": "audio_check",
                 "isVis": true
 		}       
         ],
