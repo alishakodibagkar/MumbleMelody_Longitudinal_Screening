@@ -19,7 +19,7 @@
 		}       
         ],
         "order": [
-            "items/voiceCheck_item"
+            "items/audio_check"
         ],
         "shuffle": false,
         "allow": [
