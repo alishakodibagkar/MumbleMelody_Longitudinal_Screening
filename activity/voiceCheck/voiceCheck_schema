@@ -1,5 +1,9 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    	{
+            "voice_tasks": "https://raw.githubusercontent.com/ReproNim/reproschema-library/000ea1725a67b35944f67450057f8041cef090a7/activities/VoiceTask/items/"
+        }
+    ],
     "@type": "reproschema:Activity",
     "@id": "voiceCheck_schema",
     "prefLabel": "Audio Check",
@@ -9,7 +13,7 @@
     "version": "0.0.1",
     "ui": {
         "addProperties": [
-                {"isAbout": "items/voiceCheck_item",
+                {"isAbout": "voice_tasks:audio_check,
                 "variableName": "voiceCheck_item",
                 "isVis": true
 		}       
