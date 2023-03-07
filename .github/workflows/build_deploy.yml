@@ -3,7 +3,7 @@
 name: CI
 
 env:
-  CHECKSUM: 4a1c3beba1790e900cd102c0bae6f8419e9d753e
+  CHECKSUM: 77ecef874c325a9afc12860151acc57ec2f8b2b3
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
@@ -53,7 +53,7 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: |
-        curl -O -sSL https://github.com/ReproNim/reproschema-ui/archive/${CHECKSUM}.zip
+        curl -O -sSL https://github.com/djarecka/reproschema-ui/archive/${CHECKSUM}.zip
         unzip ${CHECKSUM}.zip
         mv reproschema* ui
         cd ui
