@@ -3,7 +3,7 @@
 name: CI
 
 env:
-  CHECKSUM: 842d27d4576cef8913ab4467a91f9f3889cf2dad
+  CHECKSUM: 43f73cafe0c659547304bc6837b0e8e2dc45dff9
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
