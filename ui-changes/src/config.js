@@ -6,7 +6,7 @@ module.exports = {
   },
   banner: 'Eligibility Screening for Mumble Melody Longitudinal Study',
   assetsPublicPath: '/MumbleMelody_Longitudinal_Screening/',
-  backendServer: 'ec2-3-14-134-248.us-east-2.compute.amazonaws.com',
+  backendServer: 'http://ec2-3-14-134-248.us-east-2.compute.amazonaws.com',
   contact: 'akodiba1@mit.edu',
   showHelp: true,
   checkMediaPermission: true
