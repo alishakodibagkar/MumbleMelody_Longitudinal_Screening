@@ -6,7 +6,7 @@ module.exports = {
   },
   banner: 'Eligibility Screening for Mumble Melody Longitudinal Study',
   assetsPublicPath: '/MumbleMelody_Longitudinal_Screening/',
-  backendServer: 'https://sooyoung.dandiarchive.org',
+  backendServer: 'https://mumble-melody.dandiarchive.org',
   contact: 'akodiba1@mit.edu',
   showHelp: true,
   checkMediaPermission: true
